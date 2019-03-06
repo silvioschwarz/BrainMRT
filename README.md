@@ -6,4 +6,4 @@
 
 
 currently not working, but I am on it:
-![animation](data/notebooks/Animating-MRI-scans/)head-scanning.gif
+![animation](data/notebooks/Animating-MRI-scans/head-scanning.gif)
